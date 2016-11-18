@@ -73,7 +73,7 @@ How is this done?
 
 With love of npm everything is possible. This project is built entirely on npm packages.
 
-I'm using [ngraph](https://github.com/anvaka/ngraph) modules to precomupte 3D graph
+I'm using [ngraph](https://github.com/anvaka/ngraph) modules to precompute 3D graph
 layout offline. [angular](https://www.npmjs.org/package/angular) + [an](https://github.com/anvaka/an)
 makes a nice commonjs friendly pair. Angluar renders all UI components. [three.js](https://www.npmjs.org/package/three)
 is used to render graphics.
